@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
+      - href: Nika_Self.qmd
         text: Nika Self
       - href: Fun_Facts.qmd
         text: Fun Facts
