@@ -8,8 +8,6 @@ Made by:
 
 - Connor Hanning — [GitHub](https://github.com/connorhannig) 
 
-Test change
-
 
 ::: {.meerkat-gallery layout-ncol=3}
 

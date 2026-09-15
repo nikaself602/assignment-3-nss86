@@ -4,12 +4,16 @@ format: html
 ---
 
 
-- I grew up in the Bay Area, California.
+- I grew up in the Bay Area, California. I went to UC Davis for my bachelors where I studied both Civil and Environmental Engineering.
+
+- I study resource recovery. Specifically I look into nutrient cycling, either nitrogen or phosphorus in wastewater or lakes. My current work is quantifying internal loading of phosphorus for Oneida Lake in New York.
+
+- I love swimming and most water sports. During the summer I try to go to beaches or lakes as much as possible. My favorite lake to swim in is Lake Bled in Slovenia.
+
+- I actually have no personal interest in Meerkat's, I made my lab group vote an animal to make the theme of this website.
 
 - I strongly believe the Aflac Duck looks like a goose.
 
-- I studied both Civil and Environmental Engineering in Undergraduate.
 
-- I actually have no personal interest in Meerkat's, I made my lab group vote an animal to make the theme of this website.
 
 ![Look at the neck, to long.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5sdGwCF_g44vr-VRuszJ9yfhreMZnsi9Sl9TUVFkeQ-NIh8sBi2aw248&s=10)
