@@ -6,7 +6,7 @@ Made by:
 
 - Nika Self — [GitHub](https://github.com/nikaself602)
 
-- Connor:
+- Connor Hanning — [GitHub](https://github.com/connorhannig) 
 
 
 ::: {.meerkat-gallery layout-ncol=3}
