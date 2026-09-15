@@ -1,0 +1,34 @@
+---
+title: "Find A Meerkat Near You"
+format: html
+---
+
+- **Rosamond Gifford Zoo — Syracuse, NY**
+  - About 1 hour 15 minutes from Ithaca
+  - Exhibit: Social Animals Building
+  - Address: 1 Conservation Place, Syracuse, NY 13204
+  - The zoo currently lists slender-tailed meerkats as one of its animals. 
+
+- **Buffalo Zoo — Buffalo, NY**
+  - About 2 hours 30 minutes from Ithaca
+  - Exhibit: Gorilla House
+  - Address: 300 Parkside Avenue, Buffalo, NY 14214
+  - The meerkat exhibit is located inside the Gorilla House and is open year-round.
+
+- **Pittsburgh Zoo & Aquarium — Pittsburgh, PA**
+  - About 3 hours 30 minutes from Ithaca
+  - Exhibit: Worlds of Discovery
+  - Address: 7370 Baker Street, Pittsburgh, PA 15206
+  - The zoo currently lists meerkats in its animal collection and places them in Worlds of Discovery.
+
+- **Philadelphia Zoo — Philadelphia, PA**
+  - About 4 hours from Ithaca
+  - Exhibit: Meerkat Maze
+  - Address: 3400 W. Girard Avenue, Philadelphia, PA 19104
+  - The zoo has a dedicated Meerkat Maze, where visitors can watch the meerkats explore, dig, and climb.
+
+- **Cleveland Metroparks Zoo — Cleveland, OH**
+  - About 4 hours 15 minutes from Ithaca
+  - Exhibit: African Elephant Crossing / African Savanna
+  - Address: 3900 Wildlife Way, Cleveland, OH 44109
+  - The zoo's animal resources currently list the slender-tailed meerkat, although some of its online animal resources note that listings can include historical information.

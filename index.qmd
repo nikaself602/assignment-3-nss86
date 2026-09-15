@@ -1,7 +1,30 @@
 ---
-title: "assignment-3-nss86"
+title: "Meerkating Around"
 ---
 
-This is a Quarto website.
+Made by:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+- Nika Self — [GitHub](https://github.com/nikaself602)
+
+- Connor:
+
+
+::: {.meerkat-gallery layout-ncol=3}
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFO2tMQc2P2lYgIy0IEAQnUvKcgXK287DVSGyZUojFQw&s=10)
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0COLbeL918t4NEmuPaibHIw6lLfVf3GZFvQp0NFUAw&s=10)
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCLfIKMz3_5KCW5ai_Lmnzd3agf4VubSJTWsqKbkrBA&s=10)
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGImSDvF-6xmzQKMCl8W9RMl02B-Uto8J9wzJxJx8Qg&s=10)
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpO45oJeeenfzp_Xw003NT9F7oqAa892hy-1PnrxdkeA&s=10)
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3N8G6dDDDjzuRCITRNVLc1vN8aTiDrW5KovCwYqHYXw&s=10)
+
+:::
+
+::: {style="text-align: center;"}
+*Meerkats of the Kalahari Desert*
+:::

@@ -3,17 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "assignment-3-nss86"
+  title: "Meerkating Around"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: About.qmd
+        text: Nika Self
+      - href: Fun_Facts.qmd
+        text: Fun Facts
+      - href: Find_A_Meerkat_Near_You.qmd
+        text: Find A Meerkat Near You
 
 format:
   html:
     theme:
-      - cosmo
+      - journal
       - brand
     css: styles.css
     toc: true
