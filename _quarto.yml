@@ -14,6 +14,8 @@ website:
         text: Fun Facts
       - href: Find_A_Meerkat_Near_You.qmd
         text: Find A Meerkat Near You
+      - href: Find_A_Meerkat_In_The_Wild.qmd
+        text: Find A Meerkat In The Wild  
 
 format:
   html:
